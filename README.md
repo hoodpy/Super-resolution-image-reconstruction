@@ -5,7 +5,7 @@ Version: Python>=3.6.7, Tensorflow==1.15
 
 A small super resolution image reconstruction model using dilation convolution, dilation rates are 6, 12 and 18
 
-The first image is a low resolution image, and the second is a reconstructed image:
+The small images are the low resolution images, and the large images are the reconstructed results:
 
 ![01](https://user-images.githubusercontent.com/46805048/133092004-063c4694-c98c-4235-803b-8f212a7ea450.png)
 ![02](https://user-images.githubusercontent.com/46805048/133092012-496d5ab4-6d63-43e5-bfc6-61519c4da38e.png)
