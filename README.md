@@ -1,5 +1,7 @@
 # Super-resolution-image-reconstruction
-A small super resolution image reconstruction model using dilation convolution
+A small super resolution image reconstruction model using dilation convolution.
+
+Version: Python>=3.6.7, Tensorflow==1.15
 
 A small super resolution image reconstruction model using dilation convolution, dilation rates are 6, 12 and 18
 
